@@ -1,6 +1,8 @@
 # Travelling-Salesman-Problem-Heuristic-Solution
 This program gives solutions which are better than Christofide's Algorithm.
 
+I have also uploaded the notes that I have given below as the file 'TSP Notes for Internet Uploading for Github 14th June 2017 PCHA_1.docx' because some sections of notes seem to be missing in this 'README.md' section.
+
 
 A Quick General Guidline for executing the PHP Program 
 
